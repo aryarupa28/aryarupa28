@@ -5,8 +5,6 @@
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I’m currently working on **SPECTRA**
-
 - 🌱 I’m currently learning **MERN STACK**
   
 - 💻 Passionate about **web development** and creating smooth user experiences.
