@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryarupa</h1>
-<p align="left"> <img src="<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryarupa28&theme=onedark&column=-1" />
-</p>
-" alt="aryarupa28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryarupa28&label=Profile%20views&color=0e75b6&style=flat" alt="aryarupa28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/aryarupa28" alt="aryarupa28" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryarupa28" alt="aryarupa28" /></a> </p>
 
 <h3 align="left">About Me:</h3>
 
