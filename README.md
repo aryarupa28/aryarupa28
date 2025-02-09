@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryarupa28&show_icons=true&locale=en" alt="aryarupa28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryarupa28&" alt="aryarupa28" /></p>
+
+## **LeetCode Stats**  
+![](https://leetcard.jacoblin.cool/Aryarupaguin28?ext=heatmap)
